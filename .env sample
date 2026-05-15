@@ -1,9 +1,2 @@
 PORT=330
-MONGO_URI=mongodb://localhost:27017/contatosDB
-
-
-
-
-
-"Password a ser lembrada: C3EX8xUVAWkZzkbQ"
-"mongodb+srv://tiagobondezanbazani_db_user:C3EX8xUVAWkZzkbQ@cluster0.wzjhhbc.mongodb.net/C?appName=Cluster0"
+MONGO_URI=mongodb+srv://tiagobondezanbazani_db_user:C3EX8xUVAWkZzkbQ@cluster0.wzjhhbc.mongodb.net/C?appName=Cluster0
